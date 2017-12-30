@@ -14,3 +14,14 @@ per logical change?
     I can add logical changes to staging area one by one.
     I can see changes in working directory with 'git diff'
     I can check what is in the staging area with 'git diff --staged'
+
+4. What are some situations when branches would be helpful
+in keeping your history organized? How would branches help?
+
+    Branches would help in exploring possible big changes while
+    still developing the main product.
+
+5. How do the diagrams help you visualize the branch structure?
+
+    They repeat the branch structure.
+
