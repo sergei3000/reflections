@@ -7,3 +7,10 @@ the repository? What value do you think it offers?
 
     Staging area is the part of the working directory that is included
     into the repository. It lets us tell Git which files it should manage.
+
+3. How can you use the staging area to make sure you have one commit
+per logical change?
+
+    I can add logical changes to staging area one by one.
+    I can see changes in working directory with 'git diff'
+    I can check what is in the staging area with 'git diff --staged'
