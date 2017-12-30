@@ -25,3 +25,8 @@ in keeping your history organized? How would branches help?
 
     They repeat the branch structure.
 
+6. What is the result of merging two branches together? Why do we
+represent it in the diagram the way we do?
+
+    The result is one merged branch.
+    We do so to visualize things. They appear to be like this.
