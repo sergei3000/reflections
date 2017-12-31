@@ -6,7 +6,8 @@ was introduced?
 2. How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
 
-    It would make it easier to roll back to older versions.
+    It would make it easier to see an older versions, if I need to find
+    where a bug was introduced or see the rational for a commit.
 
 3. What do you think are the pros and cons of manually choosing when to create
 a commit, like you do in Git, vs having versions automatically saved, like
@@ -24,7 +25,7 @@ files in one commit, while others, like Google Docs, treat each file separately?
 
 5. How can you use the commands git log and git diff to view the history of files?
 
-    I can see the list of commits and their changes.
+    I can see the list of commits, commit messages and the commits' changes.
 
 6. How might using version control make you more confident to make changes
 that could break something?

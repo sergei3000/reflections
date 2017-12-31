@@ -1,19 +1,21 @@
 1. What happens when you initialize a repository? Why do you need to do it?
 
-    A repository is created. I need it to commit there.
+    A repository is created.
+    I need it to tell Git, where the repo is.
 
 2. How is the staging area different from the working directory and
 the repository? What value do you think it offers?
 
-    Staging area is the part of the working directory that is included
-    into the repository. It lets us tell Git which files it should manage.
+    Staging area is a place where I put files from working
+    directory that I want to commit.
+    It lets me only commit changes that I want to commit.
 
 3. How can you use the staging area to make sure you have one commit
 per logical change?
 
     I can add logical changes to staging area one by one.
-    I can see changes in working directory with 'git diff'
-    I can check what is in the staging area with 'git diff --staged'
+    I can see changes in working directory with 'git diff'.
+    I can check what is in the staging area with 'git diff --staged'.
 
 4. What are some situations when branches would be helpful
 in keeping your history organized? How would branches help?
