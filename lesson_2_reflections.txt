@@ -30,3 +30,9 @@ represent it in the diagram the way we do?
 
     The result is one merged branch.
     We do so to visualize things. They appear to be like this.
+
+7. What are the pros and cons of Git's automatic merging
+vs. always doing merges manually?
+    
+    Pros: it saves time.
+    Cons: you still have to deal with conflicts.
