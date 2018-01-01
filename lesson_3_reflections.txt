@@ -17,3 +17,9 @@ When would you use one instead of another?
     I have a permission to push to that repository.
     Branch is a separate part of a repository. I would use it to
     develop a new feature while collaborating with others on this code.
+
+4. What is the benefit of having a copy of the last known state
+of the remote stored locally?
+
+    One can see what was done by others. And you can see
+    the changes you did locally, that no one is aware of.
