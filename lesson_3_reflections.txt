@@ -23,3 +23,11 @@ of the remote stored locally?
 
     One can see what was done by others. And you can see
     the changes you did locally, that no one is aware of.
+
+5. How would you collaborate without using Git or GitHub?
+What would be easier, and what would be harder?
+
+    I would collaborate via emails.
+    Learning would be easier, since everybody knows how to use emails.
+    It would be harder to not mess up things without the tools
+    provided by Git. It would be harder to collaborate without GitHub.
