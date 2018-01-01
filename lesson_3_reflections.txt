@@ -7,3 +7,13 @@ keeping all your work locally?
 having Git automatically stay up-to-date with your remot repository?
 
     Because someone may introduce changes I wouldn't want to pull.
+
+3. Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
+
+    Fork is a copy of another repository. I would use it when I don't
+    have a permission to push to that repository.
+    Clone is the same repository, but kept local. I would use it when
+    I have a permission to push to that repository.
+    Branch is a separate part of a repository. I would use it to
+    develop a new feature while collaborating with others on this code.
